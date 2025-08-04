@@ -1,9 +1,5 @@
 # 🚗 DriverPass System Analysis and Design
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/build.yml?branch=main&style=flat-square)](https://github.com/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/actions)
-[![License](https://img.shields.io/github/license/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design?style=flat-square)](./LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design?style=flat-square)](https://github.com/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/main?style=flat-square)](https://github.com/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/commits/main)
 
 ---
 
