@@ -1,62 +1,61 @@
-# 🚗 DriverPass System Analysis and Design   
-**CS 255 - Module Eight Journal Submission**  
+# 🚗 DriverPass System Analysis and Design
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepo/build.yml?branch=main)](https://github.com/yourusername/yourrepo/actions)
-[![License](https://img.shields.io/github/license/yourusername/yourrepo)](https://github.com/yourusername/yourrepo/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/yourrepo)](https://github.com/yourusername/yourrepo/issues)
-[![Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo)](https://github.com/yourusername/yourrepo)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)](https://github.com/yourusername/yourrepo/commits/main)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/build.yml?branch=main&style=flat-square)](https://github.com/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/actions)
+[![License](https://img.shields.io/github/license/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design?style=flat-square)](./LICENSE)
+[![Open Issues](https://img.shields.io/github/issues/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design?style=flat-square)](https://github.com/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/main?style=flat-square)](https://github.com/LambertoNunez/SNHU-CS-255-DrivePass-System-Analysis-Design/commits/main)
 
-## 📂 Submitted Artifacts 
-- [`Business Requirements Document`](./CS_255_Business_Requirements_Document.pdf) – *Project One* 
-- [`System Design Document`](./CS_255_System_Design_Document.pdf) – *Project Two* 
+---
 
---- 
+## 📌 Project Overview
 
-## 📝 Journal Reflection 
+DriverPass is a cloud-based system designed to help students prepare for the DMV driving test. The platform enables students to register for driving packages, schedule lessons, take online practice tests, and track their progress. The system also supports role-based access for admins, instructors, and students, replacing a fragmented manual process with a scalable, secure, and centralized solution.
 
-### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? 
+---
 
-The DriverPass project was initiated by a client named **Liam**, the owner of a driving instruction company called DriverPass. He envisioned a cloud-based platform where students could register for driving packages, schedule lessons, take online practice tests, and track their progress. The goal was to replace the existing manual, fragmented system with a centralized solution that supports automation, data tracking, and role-based access for staff and students. 
+## 📂 Submitted Artifacts
 
---- 
+- [Business Requirements Document](./CS_255_Business_Requirements_Document.pdf) – *Project One*
+- [System Design Document](./CS_255_System_Design_Document.pdf) – *Project Two*
 
-### What did you do particularly well? 
+---
 
-I did particularly well in clearly translating user interviews and client needs into a set of **structured business and functional requirements**. My documentation outlined both the technical architecture and user-facing interactions. I also ensured the solution was **scalable, secure, and user-friendly**, focusing on both immediate goals and long-term flexibility. 
+## 📝 Journal Reflection
 
---- 
+### Project Summary
+The client, **Liam**, owner of DriverPass driving instruction company, requested a cloud-based platform to automate student registration, scheduling, testing, and progress tracking.
 
-### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? 
+### Successes
+- Clearly translated user interviews and client needs into structured business and functional requirements.
+- Delivered documentation with a focus on scalability, security, and usability.
 
-I would revise the **lesson and package management feature**. While the current system allows packages to be activated or deactivated, it would be more user-friendly if staff could modify package details (e.g., hours or materials) without developer involvement. I would improve it by introducing a low-code interface in future iterations, allowing business users more control over offerings. 
+### Improvements
+The lesson and package management feature could be enhanced by allowing staff to edit package details via a low-code interface instead of developer intervention.
 
---- 
+### User Needs Integration
+Functional requirements such as calendar integration, email notifications, progress dashboards, and audit logs were derived from interview analysis, ensuring the system solves real user challenges.
 
-### How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? 
+### Design Approach
+I use user-centered analysis, modular architecture, and maintainability principles — incorporating use case diagrams, class diagrams, wireframes, and requirement traceability matrices. Future projects will expand agile prototyping and CI/CD integration.
 
-I interpreted the user’s needs by analyzing the **interview transcript** and identifying key challenges like scheduling, communication, and reporting. These were translated into **functional requirements** such as calendar integration, email notifications, progress dashboards, and audit logs. Considering the user’s needs is critical—it ensures the solution is **actually usable, solves the right problems,** and increases the likelihood of adoption. 
+---
 
---- 
+## 🚀 Key Features
 
-### How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? 
+- Student Portal: Register, book lessons, take tests, and track progress.
+- Instructor Tools: Manage schedules, provide feedback, monitor milestones.
+- Admin Dashboard: User and package management, DMV compliance tracking.
+- Secure & Scalable: Cloud deployment with role-based access and encrypted communication.
 
-I approach software design with a focus on **user-centered analysis, modular architecture, and maintainability**. I typically use: 
-- **Use case diagrams** 
-- **Class and activity diagrams** 
-- **Wireframes or mockups** 
-- **Requirement traceability matrices** 
+---
 
-In future projects, I would expand my use of **agile prototyping** and introduce **user story mapping** early on, followed by continuous feedback loops and integration with MLOps or CI/CD tools for scalable deployment. 
+## 📨 Contact
 
---- 
+Questions? Reach out at [info@driverpass.com](mailto:info@driverpass.com).
 
-## ✅ Requirements Checklist 
-- [x] Business Requirements Document (Project One) 
-- [x] System Design Document (Project Two) 
-- [x] Updated README with reflection 
-- [x] Instructor added as collaborator on GitHub repo 
+---
 
---- 
+© 2025 DriverPass | Designed for CS 255 Portfolio  
+Created by Lamberto Nunez
 
-> 📌 **Note:** This portfolio entry represents work in system analysis and design. It demonstrates skills in requirements elicitation, documentation, user role modeling, and interface planning.
+
